@@ -1,0 +1,20 @@
+.column_filter{
+    background-color: #f7f8f8;
+    width: 250px!important;
+    border-color: #ced4da;
+}
+.form-control:focus {
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    outline-width: 0;
+}
+.input-group-text{
+    color: black;
+    width: 70px;
+}
+.header-text{
+    font-family: inherit; 
+    font-size: 1.5rem; 
+    display: inline;
+}
